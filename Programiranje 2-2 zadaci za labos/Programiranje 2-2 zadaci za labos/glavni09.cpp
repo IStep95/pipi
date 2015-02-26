@@ -10,7 +10,7 @@ int main(void){
 	int i, l1, l2, duljina, broji1=0, broji2=0, sadrzi=0;
 	float omjer;
 	char niz1[301], niz2[301], podniz[301] = {'\0'};
-		printf("Ucitaj prvi xxx niz:\n");
+		printf("Ucitaj prvi znakovni niz:\n");
 	gets(niz1);
 		printf("Ucitaj drugi niz:\n");
 	gets(niz2);
