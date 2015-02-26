@@ -78,8 +78,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Downloads\funkcije02.h" />
-    <ClInclude Include="..\..\..\Downloads\funkcije03.h" />
+    <ClInclude Include="funkcije02.h" />
+    <ClInclude Include="funkcije03.h" />
     <ClInclude Include="funkcije07.h" />
     <ClInclude Include="funkcije01.h" />
     <ClInclude Include="funkcije04.h" />
@@ -89,10 +89,8 @@
     <ClInclude Include="funkcije09.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\funckije02.cpp" />
-    <ClCompile Include="..\..\..\Downloads\funkcije03.cpp" />
-    <ClCompile Include="..\..\..\Downloads\glavni02.cpp" />
-    <ClCompile Include="..\..\..\Downloads\glavni03.cpp" />
+    <ClCompile Include="funkcije02.cpp" />
+    <ClCompile Include="funkcije03.cpp" />
     <ClCompile Include="funkcije07.cpp" />
     <ClCompile Include="funkcije01.cpp" />
     <ClCompile Include="funkcije04.cpp" />
@@ -101,6 +99,8 @@
     <ClCompile Include="funkcije08.cpp" />
     <ClCompile Include="funkcije09.cpp" />
     <ClCompile Include="glavni01.cpp" />
+    <ClCompile Include="glavni02.cpp" />
+    <ClCompile Include="glavni03.cpp" />
     <ClCompile Include="glavni04.cpp" />
     <ClCompile Include="glavni05.cpp" />
     <ClCompile Include="glavni06.cpp" />

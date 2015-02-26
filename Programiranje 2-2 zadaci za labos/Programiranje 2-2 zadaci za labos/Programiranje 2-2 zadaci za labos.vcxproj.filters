@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Downloads\funkcije03.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\funkcije02.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="funkcije01.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -42,24 +36,18 @@
     <ClInclude Include="funkcije09.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="funkcije02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funkcije03.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glavni01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="funkcije01.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\glavni02.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\funkcije03.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\funckije02.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\glavni03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="glavni04.cpp">
@@ -96,6 +84,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="glavni09.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funkcije02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funkcije03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glavni02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glavni03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
