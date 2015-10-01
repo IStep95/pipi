@@ -1,0 +1,3 @@
+Telefon Kanasonic    12    10.00   120.00 kn
+CD Player Suny        2  1100.10  2200.20 kn
+UKUPNO:                           2320.20 kn

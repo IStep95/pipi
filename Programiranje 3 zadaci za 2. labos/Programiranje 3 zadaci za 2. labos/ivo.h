@@ -1,0 +1,1 @@
+double kvadrat(double x);
