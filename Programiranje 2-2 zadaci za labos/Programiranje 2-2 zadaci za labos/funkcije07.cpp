@@ -10,6 +10,7 @@ int brojNeSlova(char *niz){
 			broj++;
 		}
 	}
+	//izmjena
 	return broj;
 }
 void caesarEncrypt(char *nizUlaz, char *nizIzlaz, int kljucKriptiranja){
